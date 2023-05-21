@@ -1,2 +1,3 @@
 # git_test
-My first din project repo
+My first odin project repository.
+Hello Vee!
